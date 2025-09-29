@@ -64,7 +64,7 @@ wasm\node wasm\wajicup.js doom.c doom.html -embed DOOM.WAD DOOM.WAD -rle -templa
 │   └── manifest.json     # Plugin manifest
 ├── doom-source/          # DOOM source code and build tools
 │   ├── doom.c            # Main DOOM source
-│   ├── DOOM1.WAD         # Game data (user must provide)
+│   ├── DOOM.WAD         # Game data (user must provide)
 │   ├── linuxdoom-1.10/   # Original DOOM source
 │   ├── libs_win32/       # Custom libraries
 │   ├── wasm/             # WAjic build tools
