@@ -1,0 +1,20 @@
+{
+  "name": "pexip-doom-plugin",
+  "version": "1.0.0",
+  "description": "Pexip plugin for playing and sharing DOOM gameplay in video conferences",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 3002"
+  },
+  "dependencies": {
+    "@pexip/plugin-api": "21.1.1"
+  },
+  "devDependencies": {
+    "typescript": "~5.4.0",
+    "vite": "^5.0.0"
+  }
+}
+

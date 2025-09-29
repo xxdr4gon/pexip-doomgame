@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"meta": {
+		"name": "DOOM",
+		"description": "Play DOOM inside Pexip",
+		"id": "pexip-doom-plugin"
+	},
+	"images": {
+		"icon": "./icon.png"
+	},
+	"translations": {},
+	"plugins": [
+		{
+			"resources": [
+				{ "src": "./assets/app.js", "type": "module" }
+			]
+		}
+	]
+}
+
